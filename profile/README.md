@@ -6,9 +6,11 @@
 
 ## About
 
+"We are not building software first. We are building a company that knows how to build great software."
+
 The Book of AURA is the living handbook of AURA.
 
-It documents our vision, principles, engineering philosophy, product strategy, and the lessons we learn while building the company.
+It documents our vision, principles, engineering philosophy, product strategy, and the lessons we learned while building the company.
 
 This repository is not only documentation.
 
